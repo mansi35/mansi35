@@ -3,11 +3,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansi35" alt="mansi35" /></a> </p>
 &nbsp;
+<img align="right" width="500" src="img/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansi35&label=Profile%20views&color=40f028&style=flat" alt="mansi35" /> </p>
-
-<video controls="controls">
-  <source type="video/webm" src="img/online-big-girl.webm"></source>
-</video>
 
 - 🔭 I’m currently working on [REMO](https://github.com/REMOVirtual)
 
