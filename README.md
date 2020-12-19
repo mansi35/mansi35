@@ -22,14 +22,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mansi035" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mansi035" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mansi-sharma-617521191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mansi-sharma-617521191" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mansi35" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="mansi35" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mansi_sharma_3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mansi_sharma_3" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mansi_isha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mansi_isha" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mansi35" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mansi35" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mansi35" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="mansi35" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@mansi.isha.mansi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@mansi.isha.mansi" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sharma_mansi/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="sharma_mansi/profile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mansi-sharma-617521191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mansi-sharma-617521191" height="30" width="40" /></a>
+<a href="https://twitter.com/mansi035" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mansi035" height="30" width="40" /></a>
 </p>
 &nbsp;
 <h3 align="left">Languages and Tools:</h3>
