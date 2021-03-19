@@ -6,7 +6,7 @@
 <img align="right" width="500" src="https://cb-thumbnails.s3.ap-south-1.amazonaws.com/accounts-vector.svg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansi35&label=Profile%20views&color=40f028&style=flat" alt="mansi35" /> </p>
 
-- 🔭 I’m currently working on [REMO](https://github.com/REMOVirtual)
+- 🔭 I’m currently working on [MAFia](https://github.com/mansi35/MAFia)
 
 - 🌱 I’m currently learning **React, Unity, Machine Learning**
 
