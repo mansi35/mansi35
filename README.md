@@ -1,3 +1,4 @@
+[![mansi](https://user-images.githubusercontent.com/53896251/116292856-d20d3e80-a7b3-11eb-9508-77b9ec7f1820.PNG)](https://portfolios.talentsprint.com/~mansi_sharma/)
 <h1 align="center">Hi 👋🏻, I'm Mansi Sharma</h1>
 <h3 align="center">A passionate learner from India who loves exploring new technologies!</h3>
 
@@ -10,7 +11,7 @@
 
 - 🌱 I’m currently learning **React, Unity, Machine Learning**
 
-- 👨‍💻 All of my projects are available on my [portfolio](https://portfolios.talentsprint.com/~mansi_sharma/)
+- 👨‍💻 All of my projects are available on my [portfolio](https://portfolios.talentsprint.com/~mansi_sharma/)!
 
 - 📝 I regulary write articles on [my own personalized blog!](http://coderita35.herokuapp.com/)
 
