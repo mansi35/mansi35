@@ -1,4 +1,4 @@
-[![mansi](https://user-images.githubusercontent.com/53896251/116512596-ec473980-a8e5-11eb-9c07-fcb6cf866d00.png)](https://portfolios.talentsprint.com/~mansi_sharma/)
+[![mansi](https://user-images.githubusercontent.com/53896251/116513150-c79f9180-a8e6-11eb-84df-e388d266da08.png)](https://portfolios.talentsprint.com/~mansi_sharma/)
 <h3 align="center">A passionate learner from India who loves exploring new technologies!</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansi35" alt="mansi35" /></a> </p>
