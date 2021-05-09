@@ -1,7 +1,7 @@
 [![mansi](https://user-images.githubusercontent.com/53896251/116513150-c79f9180-a8e6-11eb-84df-e388d266da08.png)](https://portfolios.talentsprint.com/~mansi_sharma/)
 <h3 align="center">A passionate learner from India who loves exploring new technologies!</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><imgsrc="https://github-profile-trophy.vercel.app/?username=mansi35" alt="mansi35" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansi35" alt="mansi35" /></a> </p>
 <img align="right" width="500" src="https://cb-thumbnails.s3.ap-south-1.amazonaws.com/accounts-vector.svg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansi35&label=Profile%20views&color=40f028&style=flat" alt="mansi35" /> </p>
 
