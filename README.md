@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available on my [portfolio](https://portfolios.talentsprint.com/~mansi_sharma/)!
 
-- 📝 I regulary write articles on [my own personalized blog!](http://coderita35.herokuapp.com/)
-
 - 📫 How to reach me **mansiisharma035@gmail.com**
 
 - 📄 Know about my experiences [here!](https://drive.google.com/file/d/1ZIoKek_5iOxsplabyDgMkNNVXXC8k6SL/view?usp=sharing)
