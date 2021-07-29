@@ -35,4 +35,4 @@
 
 &nbsp;
 <p align="center"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansi35&show_icons=true&locale=en&layout=compact" alt="mansi35"> &nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=mansi35&show_icons=true&locale=en" alt="mansi35"></p
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=mansi35&show_icons=true&locale=en" alt="mansi35"></p>
