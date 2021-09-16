@@ -5,15 +5,15 @@
 <img align="right" width="500" src="https://cb-thumbnails.s3.ap-south-1.amazonaws.com/accounts-vector.svg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansi35&label=Profile%20views&color=40f028&style=flat" alt="mansi35" /> </p>
 
-- 🔭 I’m currently working on [FAMista](https://github.com/mansi35/FAMista)
+- 🔭 I’m currently working with Team Raahee, a mental health start-up.
 
-- 🌱 I’m currently learning **React, Unity, Machine Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available on my [portfolio](https://portfolios.talentsprint.com/~mansi_sharma/)!
 
 - 📫 How to reach me **mansiisharma035@gmail.com**
 
-- 📄 Know about my experiences [here!](https://drive.google.com/file/d/1ZIoKek_5iOxsplabyDgMkNNVXXC8k6SL/view?usp=sharing)
+- 📄 Know about my experiences [here!](https://drive.google.com/file/d/1gGwxSwoUJdZSnZZCKOXoSlUhsXTbpXYz/view?usp=sharing)
 
 - ⚡ Fun fact **I love painting!**
 
