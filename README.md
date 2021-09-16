@@ -5,7 +5,7 @@
 <img align="right" width="500" src="https://cb-thumbnails.s3.ap-south-1.amazonaws.com/accounts-vector.svg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansi35&label=Profile%20views&color=40f028&style=flat" alt="mansi35" /> </p>
 
-- 🔭 I’m currently working with Team Raahee, a mental health start-up.
+- 🔭 I’m currently working with Team [Raahee](https://github.com/Raahee), a mental health start-up.
 
 - 🌱 I’m currently learning **Machine Learning**
 
