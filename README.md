@@ -1,5 +1,8 @@
 [![mansi](https://user-images.githubusercontent.com/53896251/116513150-c79f9180-a8e6-11eb-84df-e388d266da08.png)](https://portfolios.talentsprint.com/~mansi_sharma/)
 <h3 align="center">A passionate learner from India who loves exploring new technologies!</h3>
+&nbsp;
+
+<img src="https://github-profile-trophy.vercel.app/?username=mansi35&theme=darkhub&no-frame=true&margin-w=15&row=1&column=7" />
 
 <img align="right" width="350" src="https://cb-thumbnails.s3.ap-south-1.amazonaws.com/accounts-vector.svg">
 &nbsp;&nbsp;&nbsp;
