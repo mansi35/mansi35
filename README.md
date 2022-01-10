@@ -10,15 +10,15 @@
 
 &nbsp;
 
-- 🔭 I’m currently working with Team [Raahee](https://github.com/Raahee), a mental health start-up.
+- 🔭 I’m currently working as a Website Product Manager at [Raahee](https://github.com/Raahee).
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently exploring **Angular** and **Machine Learning**.
 
 - 👨‍💻 All of my projects are available on my [portfolio](https://portfolios.talentsprint.com/~mansi_sharma/)!
 
 - 📄 Know about my experiences [here!](https://drive.google.com/file/d/1gGwxSwoUJdZSnZZCKOXoSlUhsXTbpXYz/view?usp=sharing)
 
-- ⚡ Fun fact **I love painting!**
+- ⚡ Fun fact - **I love painting!**
 
 &nbsp;
 
