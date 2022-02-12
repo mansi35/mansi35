@@ -10,7 +10,7 @@
 
 &nbsp;
 
-- 🔭 I’m currently working as a Website Product Manager at [Raahee](https://github.com/Raahee).
+- 🔭 I’m currently working as a Product Manager of Website Team at [Raahee](https://github.com/Raahee).
 
 - 🌱 I’m currently exploring **Angular** and **Machine Learning**.
 
