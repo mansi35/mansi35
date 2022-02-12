@@ -4,13 +4,13 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=mansi35&theme=darkhub&no-frame=true&margin-w=15&row=1&column=7" />
 
-<img align="right" width="350" src="https://cb-thumbnails.s3.ap-south-1.amazonaws.com/accounts-vector.svg">
+<img align="right" width="340" src="https://cb-thumbnails.s3.ap-south-1.amazonaws.com/accounts-vector.svg">
 &nbsp;&nbsp;&nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansi35&label=Profile%20views&color=40f028&style=flat" alt="mansi35" /> </p>
 
 &nbsp;
 
-- 🔭 I’m currently working as a Product Manager of Website Team at [Raahee](https://github.com/Raahee).
+- 🔭 I’m currently working as Product Manager of Website Team at [Raahee](https://github.com/Raahee).
 
 - 🌱 I’m currently exploring **Angular** and **Machine Learning**.
 
